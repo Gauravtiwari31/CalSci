@@ -81,11 +81,6 @@ export function ModeBar() {
         <span className="label">Digits</span>
         {precision}
       </button>
-      {casState === 'ready' && (
-        <span className="sticker sticker--mint" style={{ alignSelf: 'center' }}>
-          SymPy ready
-        </span>
-      )}
       {casState === 'failed' && (
         <span className="sticker sticker--blush" style={{ alignSelf: 'center' }}>
           Symbolic offline

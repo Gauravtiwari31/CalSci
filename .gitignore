@@ -9,3 +9,11 @@ public/pyodide
 android/app/build
 android/.gradle
 *.tsbuildinfo
+
+# Release signing (never commit)
+android/keystore.properties
+*.jks
+*.keystore
+
+# Release binaries are published on GitHub Releases, not committed
+release/

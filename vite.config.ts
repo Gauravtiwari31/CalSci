@@ -42,8 +42,8 @@ export default defineConfig(({ mode }) => {
             short_name: 'CalSci',
             description:
               'Offline scientific calculator with symbolic math, matrices, statistics, units and finance.',
-            theme_color: '#1B2B48',
-            background_color: '#E8ECEF',
+            theme_color: '#F2EDE4',
+            background_color: '#F2EDE4',
             display: 'standalone',
             orientation: 'any',
             icons: [

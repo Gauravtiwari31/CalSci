@@ -72,8 +72,20 @@ export async function syncStatusBar(dark: boolean) {
   if (!isNative()) return;
   try {
     await StatusBar.setStyle({ style: dark ? Style.Dark : Style.Light });
-    await StatusBar.setBackgroundColor({ color: dark ? '#15325C' : '#E8ECEF' });
+    await StatusBar.setBackgroundColor({ color: dark ? '#121110' : '#F2EDE4' });
   } catch {
     /* not available on this platform */
   }
+}
+
+/**
+ * Android back button: close an open sheet, then return to the basic keys,
+ * then send the app to the background (never discard the user's state).
+ */
+export async function registerBackButton(handlers: { back: () => boolean }) {
+  if (!isNative()) return;
+  const { App } = await import('@capacitor/app');
+  await App.addListener('backButton', () => {
+    if (!handlers.back()) void App.minimizeApp();
+  });
 }

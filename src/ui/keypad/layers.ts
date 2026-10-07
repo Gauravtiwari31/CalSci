@@ -264,7 +264,7 @@ const finance: KeyDef[] = [
   {
     id: 'npvf',
     role: 'fn',
-    label: 'NPV/IRR',
+    label: 'NPV',
     aria: 'net present value form',
     action: sheet({ kind: 'finance', form: 'npv' }),
   },
@@ -285,7 +285,7 @@ const finance: KeyDef[] = [
   {
     id: 'optf',
     role: 'fn',
-    label: 'options',
+    label: 'Option',
     aria: 'Black–Scholes form',
     action: sheet({ kind: 'finance', form: 'options' }),
   },

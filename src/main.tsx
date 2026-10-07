@@ -14,7 +14,7 @@ import { MathfieldElement } from 'mathlive';
 import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
 import { App } from './app/App';
-import { isNative } from './platform';
+import { isNative, registerBackButton } from './platform';
 import { useStore } from './store';
 
 // Fonts are bundled through mathlive/fonts.css; sounds are not used.
@@ -28,6 +28,21 @@ createRoot(document.getElementById('root')!).render(
 );
 
 void useStore.getState().init();
+
+void registerBackButton({
+  back: () => {
+    const s = useStore.getState();
+    if (s.sheet) {
+      s.closeSheet();
+      return true;
+    }
+    if (s.layer !== 'basic') {
+      s.setLayer('basic');
+      return true;
+    }
+    return false;
+  },
+});
 
 // §9: service worker on the web build only; native assets are already local.
 if (!__NATIVE__ && !isNative() && import.meta.env.PROD && 'serviceWorker' in navigator) {

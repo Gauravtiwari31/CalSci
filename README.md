@@ -21,6 +21,28 @@ npm run dev              # http://localhost:5173
 
 Android: install Android Studio (SDK 36), then run `npm run cap:sync && npx cap open android`.
 
+### Building a release
+
+You need JDK 21, an Android SDK with platform 36, and `android/keystore.properties` (git-ignored):
+
+```properties
+storeFile=C:/path/to/calsci-upload.jks
+storePassword=…
+keyAlias=calsci-upload
+keyPassword=…
+```
+
+Then run:
+
+```sh
+npm run cap:sync
+cd android && ./gradlew bundleRelease assembleRelease
+# android/app/build/outputs/bundle/release/app-release.aab  → Play Console
+# android/app/build/outputs/apk/release/app-release.apk     → direct install
+```
+
+To bump a release, edit `versionCode` and `versionName` in `android/app/build.gradle`, and `version` in `package.json`. The Play Store listing text, graphics and Data safety answers are in [store/PLAY_STORE.md](store/PLAY_STORE.md). The privacy policy is in [PRIVACY.md](PRIVACY.md).
+
 ## What's in v1
 
 - Arbitrary precision arithmetic (16–1000 significant digits), real and complex numbers, and deg/rad/grad angle modes.
@@ -67,7 +89,7 @@ mathfield (MathLive) ─► LaTeX ─► Compute Engine parse ─► MathJSON �
 
 ## Known gaps and decisions
 
-- **No APK built yet.** The `android/` project is generated, but this machine has no Android SDK, so the M0 on-device measurements (APK size, cold start) are still open.
+- **Release build:** the signed AAB is 16.3 MB, and SymPy is bundled so symbolic math works offline from the first launch. The build has **not yet been tested on a physical device**, so cold start time and WebView compatibility still need a check through Play's internal testing track.
 - The main JS chunk is 5.9 MB (1.7 MB gzipped), mostly Compute Engine, math.js and MathLive. It is precached by the service worker. Code-splitting is a later optimization.
 - Symbolic calculus always works in radians. Numeric evaluation and `solve` follow the angle mode.
 - Units must be upright (inserted by the convert keys or picker, or typed as `\mathrm{km}`). Italic single letters like `m` are treated as variables.
