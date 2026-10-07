@@ -1,0 +1,4 @@
+dist
+android
+public/pyodide
+tests/golden/vectors.json

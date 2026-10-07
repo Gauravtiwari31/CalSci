@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">CalSci</string>
+    <string name="title_activity_main">CalSci</string>
+    <string name="package_name">app.calsci.calculator</string>
+    <string name="custom_url_scheme">app.calsci.calculator</string>
+</resources>

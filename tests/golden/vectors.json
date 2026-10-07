@@ -1,0 +1,1499 @@
+[
+ {
+  "latex": "\\sin(0)",
+  "approx": "0",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\cos(0)",
+  "approx": "1",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\tan(0)",
+  "approx": "0",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\sin(30)",
+  "approx": "0.49999999999999994",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\cos(30)",
+  "approx": "0.8660254037844387",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\tan(30)",
+  "approx": "0.5773502691896257",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\sin(45)",
+  "approx": "0.7071067811865475",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\cos(45)",
+  "approx": "0.7071067811865476",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\tan(45)",
+  "approx": "0.9999999999999999",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\sin(60)",
+  "approx": "0.8660254037844386",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\cos(60)",
+  "approx": "0.5000000000000001",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\tan(60)",
+  "approx": "1.7320508075688767",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\sin(90)",
+  "approx": "1",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\cos(90)",
+  "approx": "0",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\sin(120)",
+  "approx": "0.8660254037844387",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\cos(120)",
+  "approx": "-0.4999999999999998",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\tan(120)",
+  "approx": "-1.7320508075688783",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\sin(135)",
+  "approx": "0.7071067811865476",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\cos(135)",
+  "approx": "-0.7071067811865475",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\tan(135)",
+  "approx": "-1.0000000000000002",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\sin(150)",
+  "approx": "0.49999999999999994",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\cos(150)",
+  "approx": "-0.8660254037844387",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\tan(150)",
+  "approx": "-0.5773502691896257",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\sin(180)",
+  "approx": "0",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\cos(180)",
+  "approx": "-1",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\tan(180)",
+  "approx": "0",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\sin(210)",
+  "approx": "-0.5000000000000001",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\cos(210)",
+  "approx": "-0.8660254037844386",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\tan(210)",
+  "approx": "0.577350269189626",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\sin(225)",
+  "approx": "-0.7071067811865475",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\cos(225)",
+  "approx": "-0.7071067811865477",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\tan(225)",
+  "approx": "0.9999999999999997",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\sin(240)",
+  "approx": "-0.8660254037844385",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\cos(240)",
+  "approx": "-0.5000000000000004",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\tan(240)",
+  "approx": "1.7320508075688754",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\sin(270)",
+  "approx": "-1",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\cos(270)",
+  "approx": "0",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\sin(300)",
+  "approx": "-0.8660254037844386",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\cos(300)",
+  "approx": "0.5000000000000001",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\tan(300)",
+  "approx": "-1.732050807568877",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\sin(315)",
+  "approx": "-0.7071067811865477",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\cos(315)",
+  "approx": "0.7071067811865474",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\tan(315)",
+  "approx": "-1.0000000000000004",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\sin(330)",
+  "approx": "-0.5000000000000004",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\cos(330)",
+  "approx": "0.8660254037844384",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\tan(330)",
+  "approx": "-0.5773502691896264",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\sin(360)",
+  "approx": "0",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\cos(360)",
+  "approx": "1",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\tan(360)",
+  "approx": "0",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\sin\\left(\\frac{\\pi}{6}\\right)",
+  "approx": "0.49999999999999994",
+  "settings": {
+   "angle": "rad"
+  }
+ },
+ {
+  "latex": "\\cos\\left(\\frac{\\pi}{6}\\right)",
+  "approx": "0.8660254037844387",
+  "settings": {
+   "angle": "rad"
+  }
+ },
+ {
+  "latex": "\\sin\\left(\\frac{\\pi}{4}\\right)",
+  "approx": "0.7071067811865475",
+  "settings": {
+   "angle": "rad"
+  }
+ },
+ {
+  "latex": "\\cos\\left(\\frac{\\pi}{4}\\right)",
+  "approx": "0.7071067811865476",
+  "settings": {
+   "angle": "rad"
+  }
+ },
+ {
+  "latex": "\\sin\\left(\\frac{\\pi}{3}\\right)",
+  "approx": "0.8660254037844386",
+  "settings": {
+   "angle": "rad"
+  }
+ },
+ {
+  "latex": "\\cos\\left(\\frac{\\pi}{3}\\right)",
+  "approx": "0.5000000000000001",
+  "settings": {
+   "angle": "rad"
+  }
+ },
+ {
+  "latex": "\\sin\\left(\\frac{\\pi}{2}\\right)",
+  "approx": "1",
+  "settings": {
+   "angle": "rad"
+  }
+ },
+ {
+  "latex": "\\cos\\left(\\frac{\\pi}{2}\\right)",
+  "approx": "0",
+  "settings": {
+   "angle": "rad"
+  }
+ },
+ {
+  "latex": "\\sin\\left(\\pi\\right)",
+  "approx": "0",
+  "settings": {
+   "angle": "rad"
+  }
+ },
+ {
+  "latex": "\\cos\\left(\\pi\\right)",
+  "approx": "-1",
+  "settings": {
+   "angle": "rad"
+  }
+ },
+ {
+  "latex": "\\sin\\left(\\frac{3\\pi}{2}\\right)",
+  "approx": "-1",
+  "settings": {
+   "angle": "rad"
+  }
+ },
+ {
+  "latex": "\\cos\\left(\\frac{3\\pi}{2}\\right)",
+  "approx": "0",
+  "settings": {
+   "angle": "rad"
+  }
+ },
+ {
+  "latex": "\\sin\\left(1\\right)",
+  "approx": "0.8414709848078965",
+  "settings": {
+   "angle": "rad"
+  }
+ },
+ {
+  "latex": "\\cos\\left(1\\right)",
+  "approx": "0.5403023058681398",
+  "settings": {
+   "angle": "rad"
+  }
+ },
+ {
+  "latex": "\\sin\\left(2.5\\right)",
+  "approx": "0.5984721441039564",
+  "settings": {
+   "angle": "rad"
+  }
+ },
+ {
+  "latex": "\\cos\\left(2.5\\right)",
+  "approx": "-0.8011436155469337",
+  "settings": {
+   "angle": "rad"
+  }
+ },
+ {
+  "latex": "\\sin(0)",
+  "approx": "0",
+  "settings": {
+   "angle": "grad"
+  }
+ },
+ {
+  "latex": "\\sin(50)",
+  "approx": "0.7071067811865475",
+  "settings": {
+   "angle": "grad"
+  }
+ },
+ {
+  "latex": "\\sin(100)",
+  "approx": "1",
+  "settings": {
+   "angle": "grad"
+  }
+ },
+ {
+  "latex": "\\sin(200)",
+  "approx": "0",
+  "settings": {
+   "angle": "grad"
+  }
+ },
+ {
+  "latex": "\\sin(300)",
+  "approx": "-1",
+  "settings": {
+   "angle": "grad"
+  }
+ },
+ {
+  "latex": "\\arcsin\\left(0.5\\right)",
+  "approx": "30",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\arcsin\\left(1\\right)",
+  "approx": "90",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\arcsin\\left(0\\right)",
+  "approx": "0",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\arcsin\\left(-0.5\\right)",
+  "approx": "-30",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\arcsin\\left(\\frac{\\sqrt{2}}{2}\\right)",
+  "approx": "45",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\arcsin\\left(\\frac{\\sqrt{3}}{2}\\right)",
+  "approx": "60",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\arccos\\left(0.5\\right)",
+  "approx": "60",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\arccos\\left(0\\right)",
+  "approx": "90",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\arccos\\left(-1\\right)",
+  "approx": "180",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\arccos\\left(1\\right)",
+  "approx": "0",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\arctan\\left(1\\right)",
+  "approx": "45",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\arctan\\left(0\\right)",
+  "approx": "0",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\arctan\\left(-1\\right)",
+  "approx": "-45",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\arctan\\left(\\sqrt{3}\\right)",
+  "approx": "60",
+  "settings": {
+   "angle": "deg"
+  }
+ },
+ {
+  "latex": "\\arctan(1)",
+  "approx": "0.7853981633974483",
+  "settings": {
+   "angle": "rad"
+  }
+ },
+ {
+  "latex": "0!",
+  "exactInteger": "1"
+ },
+ {
+  "latex": "1!",
+  "exactInteger": "1"
+ },
+ {
+  "latex": "2!",
+  "exactInteger": "2"
+ },
+ {
+  "latex": "3!",
+  "exactInteger": "6"
+ },
+ {
+  "latex": "4!",
+  "exactInteger": "24"
+ },
+ {
+  "latex": "5!",
+  "exactInteger": "120"
+ },
+ {
+  "latex": "6!",
+  "exactInteger": "720"
+ },
+ {
+  "latex": "7!",
+  "exactInteger": "5040"
+ },
+ {
+  "latex": "8!",
+  "exactInteger": "40320"
+ },
+ {
+  "latex": "9!",
+  "exactInteger": "362880"
+ },
+ {
+  "latex": "10!",
+  "exactInteger": "3628800"
+ },
+ {
+  "latex": "11!",
+  "exactInteger": "39916800"
+ },
+ {
+  "latex": "12!",
+  "exactInteger": "479001600"
+ },
+ {
+  "latex": "13!",
+  "exactInteger": "6227020800"
+ },
+ {
+  "latex": "14!",
+  "exactInteger": "87178291200"
+ },
+ {
+  "latex": "15!",
+  "exactInteger": "1307674368000"
+ },
+ {
+  "latex": "16!",
+  "exactInteger": "20922789888000"
+ },
+ {
+  "latex": "17!",
+  "exactInteger": "355687428096000"
+ },
+ {
+  "latex": "18!",
+  "exactInteger": "6402373705728000"
+ },
+ {
+  "latex": "19!",
+  "exactInteger": "121645100408832000"
+ },
+ {
+  "latex": "20!",
+  "exactInteger": "2432902008176640000"
+ },
+ {
+  "latex": "21!",
+  "exactInteger": "51090942171709440000"
+ },
+ {
+  "latex": "22!",
+  "exactInteger": "1124000727777607680000"
+ },
+ {
+  "latex": "23!",
+  "exactInteger": "25852016738884976640000"
+ },
+ {
+  "latex": "24!",
+  "exactInteger": "620448401733239439360000"
+ },
+ {
+  "latex": "25!",
+  "exactInteger": "15511210043330985984000000"
+ },
+ {
+  "latex": "2^{10}",
+  "exactInteger": "1024"
+ },
+ {
+  "latex": "2^{50}",
+  "exactInteger": "1125899906842624"
+ },
+ {
+  "latex": "2^{64}",
+  "exactInteger": "18446744073709551616"
+ },
+ {
+  "latex": "2^{100}",
+  "exactInteger": "1267650600228229401496703205376"
+ },
+ {
+  "latex": "3^{40}",
+  "exactInteger": "12157665459056928801"
+ },
+ {
+  "latex": "7^{20}",
+  "exactInteger": "79792266297612001"
+ },
+ {
+  "latex": "10^{20}",
+  "exactInteger": "100000000000000000000"
+ },
+ {
+  "latex": "5^{30}",
+  "exactInteger": "931322574615478515625"
+ },
+ {
+  "latex": "11^{11}",
+  "exactInteger": "285311670611"
+ },
+ {
+  "latex": "12^{12}",
+  "exactInteger": "8916100448256"
+ },
+ {
+  "latex": "\\ln\\left(e^{1}\\right)",
+  "approx": "1"
+ },
+ {
+  "latex": "\\ln\\left(e^{2}\\right)",
+  "approx": "2"
+ },
+ {
+  "latex": "\\ln\\left(e^{3}\\right)",
+  "approx": "3"
+ },
+ {
+  "latex": "\\ln\\left(e^{5}\\right)",
+  "approx": "5"
+ },
+ {
+  "latex": "\\ln\\left(e^{10}\\right)",
+  "approx": "10"
+ },
+ {
+  "latex": "\\log\\left(10^{0}\\right)",
+  "approx": "0"
+ },
+ {
+  "latex": "\\log\\left(10^{1}\\right)",
+  "approx": "1"
+ },
+ {
+  "latex": "\\log\\left(10^{2}\\right)",
+  "approx": "2"
+ },
+ {
+  "latex": "\\log\\left(10^{6}\\right)",
+  "approx": "6"
+ },
+ {
+  "latex": "\\log\\left(10^{12}\\right)",
+  "approx": "12"
+ },
+ {
+  "latex": "\\log_{2}\\left(8\\right)",
+  "approx": "3"
+ },
+ {
+  "latex": "\\log_{3}\\left(81\\right)",
+  "approx": "4"
+ },
+ {
+  "latex": "\\log_{2}\\left(1024\\right)",
+  "approx": "10"
+ },
+ {
+  "latex": "\\log_{5}\\left(125\\right)",
+  "approx": "3"
+ },
+ {
+  "latex": "\\log_{7}\\left(1\\right)",
+  "approx": "0"
+ },
+ {
+  "latex": "\\ln(2)",
+  "approxPrefix": "0.69314718055994530941723212145817656807550013436025"
+ },
+ {
+  "latex": "\\ln(10)",
+  "approxPrefix": "2.30258509299404568401799145468436420760110148862877"
+ },
+ {
+  "latex": "\\sqrt{4}",
+  "approx": "2"
+ },
+ {
+  "latex": "\\sqrt{9}",
+  "approx": "3"
+ },
+ {
+  "latex": "\\sqrt{144}",
+  "approx": "12"
+ },
+ {
+  "latex": "\\sqrt{10201}",
+  "approx": "101"
+ },
+ {
+  "latex": "\\sqrt{10000000000}",
+  "approx": "100000"
+ },
+ {
+  "latex": "\\sqrt[3]{8}",
+  "approx": "2"
+ },
+ {
+  "latex": "\\sqrt[3]{27}",
+  "approx": "3"
+ },
+ {
+  "latex": "\\sqrt[3]{1000}",
+  "approx": "10"
+ },
+ {
+  "latex": "\\sqrt[3]{-8}",
+  "approx": "-2"
+ },
+ {
+  "latex": "\\sqrt[3]{-125}",
+  "approx": "-5"
+ },
+ {
+  "latex": "\\sqrt{2}",
+  "approxPrefix": "1.41421356237309504880168872420969807856967187537694"
+ },
+ {
+  "latex": "\\sqrt{3}",
+  "approxPrefix": "1.73205080756887729352744634150587236694280525381038"
+ },
+ {
+  "latex": "\\sqrt[4]{16}",
+  "approx": "2"
+ },
+ {
+  "latex": "\\sqrt[5]{32}",
+  "approx": "2"
+ },
+ {
+  "latex": "0.1+0.2",
+  "approx": "0.3"
+ },
+ {
+  "latex": "\\frac{1}{3}+\\frac{1}{6}",
+  "approx": "0.5"
+ },
+ {
+  "latex": "\\frac{2}{3}\\times\\frac{3}{4}",
+  "approx": "0.5"
+ },
+ {
+  "latex": "1-0.9",
+  "approx": "0.1"
+ },
+ {
+  "latex": "0.1\\times3",
+  "approx": "0.3"
+ },
+ {
+  "latex": "\\frac{22}{7}-\\frac{1}{7}",
+  "approx": "3"
+ },
+ {
+  "latex": "1.1^{2}",
+  "approx": "1.21"
+ },
+ {
+  "latex": "10\\%",
+  "approx": "0.1"
+ },
+ {
+  "latex": "50\\%\\times 80",
+  "approx": "40"
+ },
+ {
+  "latex": "2^{-3}",
+  "approx": "0.125"
+ },
+ {
+  "latex": "\\left|-7.5\\right|",
+  "approx": "7.5"
+ },
+ {
+  "latex": "17\\bmod 5",
+  "approx": "2"
+ },
+ {
+  "latex": "\\lfloor 2.7\\rfloor",
+  "approx": "2"
+ },
+ {
+  "latex": "\\lceil 2.1\\rceil",
+  "approx": "3"
+ },
+ {
+  "latex": "1.5\\times10^{3}",
+  "approx": "1500"
+ },
+ {
+  "latex": "123456789\\times987654321",
+  "approx": "121932631112635269"
+ },
+ {
+  "latex": "\\frac{1}{7}",
+  "approxPrefix": "0.14285714285714285714285714285714285714285714285714"
+ },
+ {
+  "latex": "\\pi",
+  "approxPrefix": "3.14159265358979323846264338327950288419716939937510"
+ },
+ {
+  "latex": "e",
+  "approxPrefix": "2.71828182845904523536028747135266249775724709369995"
+ },
+ {
+  "latex": "\\sinh(0)",
+  "approx": "0"
+ },
+ {
+  "latex": "\\cosh(0)",
+  "approx": "1"
+ },
+ {
+  "latex": "\\tanh(0)",
+  "approx": "0"
+ },
+ {
+  "latex": "\\sinh(0.5)",
+  "approx": "0.5210953054937474"
+ },
+ {
+  "latex": "\\cosh(0.5)",
+  "approx": "1.1276259652063807"
+ },
+ {
+  "latex": "\\tanh(0.5)",
+  "approx": "0.46211715726000974"
+ },
+ {
+  "latex": "\\sinh(1)",
+  "approx": "1.1752011936438014"
+ },
+ {
+  "latex": "\\cosh(1)",
+  "approx": "1.5430806348152437"
+ },
+ {
+  "latex": "\\tanh(1)",
+  "approx": "0.7615941559557649"
+ },
+ {
+  "latex": "\\sinh(2)",
+  "approx": "3.626860407847019"
+ },
+ {
+  "latex": "\\cosh(2)",
+  "approx": "3.7621956910836314"
+ },
+ {
+  "latex": "\\tanh(2)",
+  "approx": "0.9640275800758169"
+ },
+ {
+  "latex": "\\operatorname{arsinh}(1)",
+  "approx": "0.881373587019543"
+ },
+ {
+  "latex": "\\binom{5}{2}",
+  "approx": "10"
+ },
+ {
+  "latex": "\\binom{10}{3}",
+  "approx": "120"
+ },
+ {
+  "latex": "\\binom{52}{5}",
+  "approx": "2598960"
+ },
+ {
+  "latex": "\\binom{20}{10}",
+  "approx": "184756"
+ },
+ {
+  "latex": "\\binom{6}{0}",
+  "approx": "1"
+ },
+ {
+  "latex": "\\operatorname{nPr}(5,2)",
+  "approx": "20"
+ },
+ {
+  "latex": "\\operatorname{nPr}(10,3)",
+  "approx": "720"
+ },
+ {
+  "latex": "\\operatorname{nPr}(6,6)",
+  "approx": "720"
+ },
+ {
+  "latex": "\\operatorname{nCr}(49,6)",
+  "approx": "13983816"
+ },
+ {
+  "latex": "\\Gamma(5)",
+  "approx": "24"
+ },
+ {
+  "latex": "\\Gamma(0.5)",
+  "approx": "1.7724538509055159",
+  "precision": "double"
+ },
+ {
+  "latex": "\\operatorname{erf}(1)",
+  "approx": "0.8427007929497149",
+  "precision": "double"
+ },
+ {
+  "latex": "\\int_0^1 x^{0}\\,\\mathrm{d}x",
+  "approx": "1"
+ },
+ {
+  "latex": "\\int_0^1 x^{1}\\,\\mathrm{d}x",
+  "approx": "0.5"
+ },
+ {
+  "latex": "\\int_0^1 x^{2}\\,\\mathrm{d}x",
+  "approx": "0.3333333333333333"
+ },
+ {
+  "latex": "\\int_0^1 x^{3}\\,\\mathrm{d}x",
+  "approx": "0.25"
+ },
+ {
+  "latex": "\\int_0^1 x^{4}\\,\\mathrm{d}x",
+  "approx": "0.2"
+ },
+ {
+  "latex": "\\int_0^1 x^{5}\\,\\mathrm{d}x",
+  "approx": "0.16666666666666666"
+ },
+ {
+  "latex": "\\int_0^1 x^{9}\\,\\mathrm{d}x",
+  "approx": "0.1"
+ },
+ {
+  "latex": "\\int_0^{\\pi}\\sin(x)\\,\\mathrm{d}x",
+  "approx": "2",
+  "settings": {
+   "angle": "rad"
+  }
+ },
+ {
+  "latex": "\\int_0^1 e^{x}\\,\\mathrm{d}x",
+  "approx": "1.718281828459045",
+  "settings": {
+   "angle": "rad"
+  }
+ },
+ {
+  "latex": "\\int_1^{e}\\frac{1}{x}\\,\\mathrm{d}x",
+  "approx": "1",
+  "settings": {
+   "angle": "rad"
+  }
+ },
+ {
+  "latex": "\\int_0^{\\infty}e^{-x}\\,\\mathrm{d}x",
+  "approx": "1",
+  "settings": {
+   "angle": "rad"
+  }
+ },
+ {
+  "latex": "\\int_{-1}^{1}\\sqrt{1-x^2}\\,\\mathrm{d}x",
+  "approx": "1.5707963267948966",
+  "settings": {
+   "angle": "rad"
+  }
+ },
+ {
+  "latex": "\\int_0^{1}\\frac{1}{1+x^2}\\,\\mathrm{d}x",
+  "approx": "0.7853981633974483",
+  "settings": {
+   "angle": "rad"
+  }
+ },
+ {
+  "latex": "\\int_0^{\\infty}e^{-x^2}\\,\\mathrm{d}x",
+  "approx": "0.8862269254527579",
+  "settings": {
+   "angle": "rad"
+  }
+ },
+ {
+  "latex": "\\int_0^{2}x e^{x}\\,\\mathrm{d}x",
+  "approx": "8.389056098930649",
+  "settings": {
+   "angle": "rad"
+  }
+ },
+ {
+  "latex": "\\int_0^{\\frac{\\pi}{2}}\\cos^{2}(x)\\,\\mathrm{d}x",
+  "approx": "0.7853981633974483",
+  "settings": {
+   "angle": "rad"
+  }
+ },
+ {
+  "latex": "\\int_1^{2}\\ln(x)\\,\\mathrm{d}x",
+  "approx": "0.3862943611198906",
+  "settings": {
+   "angle": "rad"
+  }
+ },
+ {
+  "latex": "\\lim_{x\\to0}\\frac{\\sin x}{x}",
+  "approx": "1",
+  "settings": {
+   "angle": "rad"
+  }
+ },
+ {
+  "latex": "\\lim_{x\\to\\infty}\\left(1+\\frac{1}{x}\\right)^{x}",
+  "approx": "2.718281828459045",
+  "settings": {
+   "angle": "rad"
+  }
+ },
+ {
+  "latex": "\\lim_{x\\to0}\\frac{e^{x}-1}{x}",
+  "approx": "1",
+  "settings": {
+   "angle": "rad"
+  }
+ },
+ {
+  "latex": "\\lim_{x\\to2}\\frac{x^2-4}{x-2}",
+  "approx": "4",
+  "settings": {
+   "angle": "rad"
+  }
+ },
+ {
+  "latex": "\\lim_{x\\to\\infty}\\frac{3x^2+1}{x^2}",
+  "approx": "3",
+  "settings": {
+   "angle": "rad"
+  }
+ },
+ {
+  "latex": "\\lim_{x\\to0}\\frac{1-\\cos x}{x^2}",
+  "approx": "0.5",
+  "settings": {
+   "angle": "rad"
+  }
+ },
+ {
+  "latex": "\\sum_{n=1}^{100}n",
+  "approx": "5050"
+ },
+ {
+  "latex": "\\sum_{n=1}^{\\infty}\\frac{1}{n^2}",
+  "approx": "1.6449340668482264"
+ },
+ {
+  "latex": "\\sum_{k=0}^{10}2^{k}",
+  "approx": "2047"
+ },
+ {
+  "latex": "\\prod_{k=1}^{6}k",
+  "approx": "720"
+ },
+ {
+  "latex": "\\sum_{n=0}^{\\infty}\\frac{1}{2^{n}}",
+  "approx": "2"
+ },
+ {
+  "latex": "\\frac{\\mathrm{d}}{\\mathrm{d}x}\\left(x^3\\right)",
+  "exactIncludes": "3x^2"
+ },
+ {
+  "latex": "\\frac{\\mathrm{d}}{\\mathrm{d}x}\\left(e^{2x}\\right)",
+  "exactIncludes": "exp(2x)"
+ },
+ {
+  "latex": "2x+3=7",
+  "approx": "2"
+ },
+ {
+  "latex": "x^2=9",
+  "approxSet": [
+   -3,
+   3
+  ]
+ },
+ {
+  "latex": "x^2-5x+6=0",
+  "approxSet": [
+   2,
+   3
+  ]
+ },
+ {
+  "latex": "x^3=8",
+  "approxSet": [
+   2
+  ]
+ },
+ {
+  "latex": "3x-1=2x+4",
+  "approx": "5"
+ },
+ {
+  "latex": "\\operatorname{solve}\\left(x^2-2,x\\right)",
+  "approxSet": [
+   -1.4142135623730951,
+   1.4142135623730951
+  ]
+ },
+ {
+  "latex": "\\begin{cases}x+y=3\\\\x-y=1\\end{cases}",
+  "exactIncludes": "x=2"
+ },
+ {
+  "latex": "x^2+1=0",
+  "error": "No real solution"
+ },
+ {
+  "latex": "\\det\\begin{pmatrix}1&2\\\\3&4\\end{pmatrix}",
+  "approx": "-2"
+ },
+ {
+  "latex": "\\det\\begin{pmatrix}2&0&0\\\\0&3&0\\\\0&0&4\\end{pmatrix}",
+  "approx": "24"
+ },
+ {
+  "latex": "\\det\\begin{pmatrix}6&1&1\\\\4&-2&5\\\\2&8&7\\end{pmatrix}",
+  "approx": "-306"
+ },
+ {
+  "latex": "\\operatorname{rank}\\left(\\begin{pmatrix}1&2\\\\2&4\\end{pmatrix}\\right)",
+  "approx": "1"
+ },
+ {
+  "latex": "\\operatorname{rank}\\left(\\begin{pmatrix}1&0&0\\\\0&1&0\\\\0&0&1\\end{pmatrix}\\right)",
+  "approx": "3"
+ },
+ {
+  "latex": "\\operatorname{tr}\\left(\\begin{pmatrix}1&2\\\\3&4\\end{pmatrix}\\right)",
+  "approx": "5"
+ },
+ {
+  "latex": "\\begin{pmatrix}1&2\\\\3&4\\end{pmatrix}^{-1}",
+  "approxText": "[[-2, 1], [1.5, -0.5]]"
+ },
+ {
+  "latex": "\\begin{pmatrix}1&2\\\\3&4\\end{pmatrix}\\begin{pmatrix}5\\\\6\\end{pmatrix}",
+  "approxText": "[[17], [39]]"
+ },
+ {
+  "latex": "\\begin{pmatrix}1&2\\\\3&4\\end{pmatrix}^{\\top}",
+  "approxText": "[[1, 3], [2, 4]]"
+ },
+ {
+  "latex": "\\operatorname{lsolve}\\left(\\begin{pmatrix}2&1\\\\1&3\\end{pmatrix},\\begin{pmatrix}3\\\\5\\end{pmatrix}\\right)",
+  "approxText": "[[0.8], [1.4]]"
+ },
+ {
+  "latex": "\\begin{pmatrix}1&2\\\\2&4\\end{pmatrix}^{-1}",
+  "error": "singular"
+ },
+ {
+  "latex": "\\begin{pmatrix}1&2&3\\\\4&5&6\\end{pmatrix}\\begin{pmatrix}1&2&3\\\\4&5&6\\end{pmatrix}",
+  "error": "Columns of the first must equal rows of the second"
+ },
+ {
+  "latex": "5\\,\\mathrm{km}\\operatorname{to}\\mathrm{m}",
+  "approx": "5000 m"
+ },
+ {
+  "latex": "1\\,\\mathrm{mi}\\operatorname{to}\\mathrm{km}",
+  "approx": "1.609344 km"
+ },
+ {
+  "latex": "12\\,\\mathrm{in}\\operatorname{to}\\mathrm{cm}",
+  "approx": "30.48 cm"
+ },
+ {
+  "latex": "1\\,\\mathrm{lb}\\operatorname{to}\\mathrm{g}",
+  "approx": "453.59237 g"
+ },
+ {
+  "latex": "1\\,\\mathrm{h}\\operatorname{to}\\mathrm{s}",
+  "approx": "3600 s"
+ },
+ {
+  "latex": "0\\,\\mathrm{degC}\\operatorname{to}\\mathrm{degF}",
+  "approx": "32 degF"
+ },
+ {
+  "latex": "300\\,\\mathrm{K}\\operatorname{to}\\mathrm{degC}",
+  "approx": "26.85 degC"
+ },
+ {
+  "latex": "100\\,\\mathrm{km}/\\mathrm{h}\\operatorname{to}\\mathrm{m}/\\mathrm{s}",
+  "approxNumber": 27.77777777777778
+ },
+ {
+  "latex": "1\\,\\mathrm{kWh}\\operatorname{to}\\mathrm{J}",
+  "approx": "3600000 J"
+ },
+ {
+  "latex": "1\\,\\mathrm{GB}\\operatorname{to}\\mathrm{MB}",
+  "approx": "1000 MB"
+ },
+ {
+  "latex": "2\\,\\mathrm{L}\\operatorname{to}\\mathrm{mL}",
+  "approx": "2000 mL"
+ },
+ {
+  "latex": "1\\,\\mathrm{EUR}\\operatorname{to}\\mathrm{USD}",
+  "approxNumber": 1.1269,
+  "rates": true
+ },
+ {
+  "latex": "108.6615\\,\\mathrm{INR}\\operatorname{to}\\mathrm{EUR}",
+  "approxNumber": 1,
+  "rates": true
+ },
+ {
+  "latex": "5\\,\\mathrm{km}\\operatorname{to}\\mathrm{kg}",
+  "error": "Units don't match"
+ },
+ {
+  "latex": "\\operatorname{mean}(2,4,4,4,5,5,7,9)",
+  "approxNumber": 5
+ },
+ {
+  "latex": "\\operatorname{median}(3,1,4,1,5)",
+  "approxNumber": 3
+ },
+ {
+  "latex": "\\operatorname{pstd}(2,4,4,4,5,5,7,9)",
+  "approxNumber": 2
+ },
+ {
+  "latex": "\\operatorname{normcdf}(0)",
+  "approxNumber": 0.5
+ },
+ {
+  "latex": "\\operatorname{normcdf}(1.96)",
+  "approxNumber": 0.9750021048517795
+ },
+ {
+  "latex": "\\operatorname{norminv}(0.975)",
+  "approxNumber": 1.959963984540054
+ },
+ {
+  "latex": "\\operatorname{normpdf}(0)",
+  "approxNumber": 0.3989422804014327
+ },
+ {
+  "latex": "\\operatorname{binompdf}(2,5,0.5)",
+  "approxNumber": 0.3125
+ },
+ {
+  "latex": "\\operatorname{poisspdf}(0,2)",
+  "approxNumber": 0.1353352832366127
+ },
+ {
+  "latex": "\\operatorname{tcdf}(0,5)",
+  "approxNumber": 0.5
+ },
+ {
+  "latex": "\\operatorname{corr}\\left(\\left[1,2,3\\right],\\left[2,4,6\\right]\\right)",
+  "approxNumber": 1
+ },
+ {
+  "latex": "\\operatorname{pmt}(0.05/12,360,300000)",
+  "approxNumber": -1610.4648690364,
+  "precision": "double"
+ },
+ {
+  "latex": "\\operatorname{fv}(0.06/12,120,-100)",
+  "approxNumber": 16387.9346806458,
+  "precision": "double"
+ },
+ {
+  "latex": "\\operatorname{npv}\\left(0.1,\\left[-10000,3000,4200,6800\\right]\\right)",
+  "approxNumber": 1188.4434123352,
+  "precision": "double"
+ },
+ {
+  "latex": "\\operatorname{irr}\\left(\\left[-70000,12000,15000,18000,21000,26000\\right]\\right)",
+  "approxNumber": 0.0866309480365,
+  "precision": "double"
+ },
+ {
+  "latex": "\\operatorname{rate}(48,-200,8000)",
+  "approxNumber": 0.0077014724882,
+  "precision": "double"
+ },
+ {
+  "latex": "\\operatorname{cagr}(1000,2000,5)",
+  "approxNumber": 0.148698354997,
+  "precision": "double"
+ },
+ {
+  "latex": "\\operatorname{bondprice}(100,0.1,0.1,3,1)",
+  "approxNumber": 100,
+  "precision": "double"
+ },
+ {
+  "latex": "\\operatorname{duration}(100,0.1,0.1,3,1)",
+  "approxNumber": 2.7355371900826,
+  "precision": "double"
+ },
+ {
+  "latex": "\\sqrt{-4}",
+  "approxText": "2i",
+  "settings": {
+   "domain": "complex"
+  }
+ },
+ {
+  "latex": "e^{i\\pi}",
+  "approx": "-1",
+  "settings": {
+   "domain": "complex"
+  }
+ },
+ {
+  "latex": "(1+i)(1-i)",
+  "approx": "2",
+  "settings": {
+   "domain": "complex"
+  }
+ },
+ {
+  "latex": "\\left|3+4i\\right|",
+  "approx": "5",
+  "settings": {
+   "domain": "complex"
+  }
+ },
+ {
+  "latex": "x^2+1=0",
+  "exactIncludes": "i",
+  "settings": {
+   "domain": "complex"
+  }
+ },
+ {
+  "latex": "\\frac{1}{0}",
+  "error": "divide by zero"
+ },
+ {
+  "latex": "3+",
+  "error": "Couldn't read"
+ },
+ {
+  "latex": "\\sqrt{-1}",
+  "error": "complex mode"
+ },
+ {
+  "latex": "\\operatorname{irr}\\left(\\left[100,200\\right]\\right)",
+  "error": "negative and one positive"
+ },
+ {
+  "latex": "\\operatorname{norminv}(2)",
+  "error": "between 0 and 1"
+ }
+]
