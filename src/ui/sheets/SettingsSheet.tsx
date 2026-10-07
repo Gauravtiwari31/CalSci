@@ -1,6 +1,9 @@
 import { useState } from 'react';
+import { LINKS } from '../../app/links';
 import { CURRENCY_NAMES } from '../../engine/currency';
+import { isNative } from '../../platform';
 import { useStore } from '../../store';
+import { Icon } from '../Icon';
 import { Field, Segmented, Sheet } from './Sheet';
 
 const clampInt = (v: string, lo: number, hi: number, fallback: number) => {
@@ -157,9 +160,30 @@ export function SettingsSheet() {
 
       <h3 className="section-title">About</h3>
       <p className="hint">
-        CalSci : Scientific Calculator. Numbers: math.js with arbitrary precision. Symbolic: Compute Engine
-        and SymPy (runs on this device). Statistics: jStat. Everything works offline.
+        CalSci : Scientific Calculator {__APP_VERSION__}. Numbers: math.js with arbitrary precision. Symbolic:
+        Compute Engine and SymPy (runs on this device). Statistics: jStat. Everything works offline.
       </p>
+      <ul className="list">
+        {[
+          { href: LINKS.privacy, label: 'Privacy policy' },
+          { href: LINKS.website, label: 'Website' },
+          { href: LINKS.source, label: 'Source code' },
+          { href: LINKS.issues, label: 'Report a problem' },
+        ].map((l) => (
+          <li key={l.href}>
+            <a
+              href={l.href}
+              // Android: Capacitor hands outside links to the phone's browser. Web: new tab.
+              target={isNative() ? undefined : '_blank'}
+              rel="noopener"
+              style={{ color: 'inherit', fontWeight: 600, textDecoration: 'none' }}
+            >
+              {l.label}
+            </a>
+            <Icon name="arrowRight" size={18} />
+          </li>
+        ))}
+      </ul>
     </Sheet>
   );
 }

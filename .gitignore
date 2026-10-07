@@ -17,3 +17,6 @@ android/keystore.properties
 
 # Release binaries are published on GitHub Releases, not committed
 release/
+
+# Local Cloudflare dev state
+.wrangler/

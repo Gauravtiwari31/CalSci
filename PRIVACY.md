@@ -1,5 +1,7 @@
 # CalSci Privacy Policy
 
+> The published version of this policy is at **https://calsci.gauravt9431.workers.dev/privacy**. The page source is `public/privacy.html`; keep the two in sync.
+
 _Last updated: 7 October 2026_
 
 CalSci : Scientific Calculator ("CalSci", "the app") is published by Gaurav Tiwari. This policy explains what data the app handles.

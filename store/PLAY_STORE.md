@@ -7,8 +7,8 @@ Everything the Play Console asks for, in the order it asks.
 | Item | Value |
 |---|---|
 | Package name | `app.calsci.calculator` |
-| Version | 1.0.0 (versionCode 1) |
-| Upload file | `app-release.aab` (attached to the GitHub release v1.0.0) |
+| Version | 1.0.1 (versionCode 2) |
+| Upload file | `CalSci-1.0.1.aab` (in `release/`, and on the GitHub release when published) |
 | Target / min SDK | 36 / 24 (Android 7.0+) |
 | Signing | Upload key `calsci-upload` (keep the `.jks` and its password safe). Enroll in **Play App Signing** when Play asks. |
 | Permissions | `INTERNET` (currency rates), `VIBRATE` (haptics) |
@@ -57,8 +57,8 @@ DESIGNED TO BE CLEAR
 **Category:** Education (alternative: Tools)
 **Tags:** Calculator, Math, Education, Productivity
 **Contact email:** your developer email
-**Website:** https://github.com/Gauravtiwari31/CalSci
-**Privacy policy URL:** https://github.com/Gauravtiwari31/CalSci/blob/main/PRIVACY.md
+**Website:** https://calsci.gauravt9431.workers.dev
+**Privacy policy URL:** https://calsci.gauravt9431.workers.dev/privacy
 
 ## Graphics
 

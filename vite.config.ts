@@ -2,6 +2,7 @@
 import { defineConfig, type Plugin } from 'vite';
 import react from '@vitejs/plugin-react';
 import { VitePWA } from 'vite-plugin-pwa';
+import pkg from './package.json' with { type: 'json' };
 
 // §10: CSP. Injected only into production builds, because Vite's dev server
 // relies on inline scripts (React refresh preamble) that this policy blocks.
@@ -25,7 +26,10 @@ const cspMeta = (): Plugin => ({
 export default defineConfig(({ mode }) => {
   const native = mode === 'native';
   return {
-    define: { __NATIVE__: JSON.stringify(native) },
+    define: {
+      __NATIVE__: JSON.stringify(native),
+      __APP_VERSION__: JSON.stringify(process.env.npm_package_version ?? pkg.version),
+    },
     worker: { format: 'es' },
     build: { target: 'es2022', chunkSizeWarningLimit: 4000 },
     plugins: [
@@ -55,6 +59,8 @@ export default defineConfig(({ mode }) => {
           workbox: {
             globPatterns: ['**/*.{js,css,html,woff2,svg,png}'],
             globIgnores: ['pyodide/**'],
+            // Static pages are real files; don't answer them with the app shell.
+            navigateFallbackDenylist: [/^\/privacy/],
             maximumFileSizeToCacheInBytes: 8 * 1024 * 1024,
             runtimeCaching: [
               {

@@ -1,5 +1,7 @@
 # CalSci : Scientific Calculator
 
+**Try it:** https://calsci.gauravt9431.workers.dev · **Privacy:** https://calsci.gauravt9431.workers.dev/privacy · **Android:** [latest release](https://github.com/Gauravtiwari31/CalSci/releases/latest)
+
 A scientific calculator and lightweight CAS that runs fully offline. It ships as a PWA on the web and as a Capacitor app on Android, with iOS possible later from the same code. It implements the spec in [details.md](details.md) under the name CalSci instead of Vellum.
 
 ## Setup

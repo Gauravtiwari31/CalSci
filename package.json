@@ -1,13 +1,13 @@
 {
   "name": "calsci",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "CalSci : Scientific Calculator. Offline scientific calculator and lightweight CAS.",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build",
-    "build:native": "tsc -b && vite build --mode native",
+    "build": "npm run fetch:pyodide && tsc -b && vite build",
+    "build:native": "npm run fetch:pyodide && tsc -b && vite build --mode native",
     "preview": "vite preview",
     "typecheck": "tsc -b --noEmit",
     "test": "vitest run",
@@ -61,6 +61,7 @@
     "typescript-eslint": "^8.71.1",
     "vite": "^8.3.3",
     "vite-plugin-pwa": "^2.0.0",
-    "vitest": "^5.0.3"
+    "vitest": "^5.0.3",
+    "wrangler": "^4.148.0"
   }
 }
